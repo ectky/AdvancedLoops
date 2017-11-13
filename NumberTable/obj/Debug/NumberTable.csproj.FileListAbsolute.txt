@@ -1,0 +1,5 @@
+D:\VSProjects\AdvancedLoops\NumberTable\bin\Debug\NumberTable.exe.config
+D:\VSProjects\AdvancedLoops\NumberTable\bin\Debug\NumberTable.exe
+D:\VSProjects\AdvancedLoops\NumberTable\bin\Debug\NumberTable.pdb
+D:\VSProjects\AdvancedLoops\NumberTable\obj\Debug\NumberTable.exe
+D:\VSProjects\AdvancedLoops\NumberTable\obj\Debug\NumberTable.pdb

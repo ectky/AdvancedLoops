@@ -1,0 +1,5 @@
+D:\VSProjects\AdvancedLoops\NumbersNto1\bin\Debug\NumbersNto1.exe.config
+D:\VSProjects\AdvancedLoops\NumbersNto1\bin\Debug\NumbersNto1.exe
+D:\VSProjects\AdvancedLoops\NumbersNto1\bin\Debug\NumbersNto1.pdb
+D:\VSProjects\AdvancedLoops\NumbersNto1\obj\Debug\NumbersNto1.exe
+D:\VSProjects\AdvancedLoops\NumbersNto1\obj\Debug\NumbersNto1.pdb
