@@ -1,0 +1,5 @@
+D:\VSProjects\AdvancedLoops\PowersofTwo\bin\Debug\PowersofTwo.exe.config
+D:\VSProjects\AdvancedLoops\PowersofTwo\bin\Debug\PowersofTwo.exe
+D:\VSProjects\AdvancedLoops\PowersofTwo\bin\Debug\PowersofTwo.pdb
+D:\VSProjects\AdvancedLoops\PowersofTwo\obj\Debug\PowersofTwo.exe
+D:\VSProjects\AdvancedLoops\PowersofTwo\obj\Debug\PowersofTwo.pdb
