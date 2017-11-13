@@ -1,0 +1,6 @@
+D:\VSProjects\AdvancedLoops\LoopByStep31\bin\Debug\LoopByStep31.exe.config
+D:\VSProjects\AdvancedLoops\LoopByStep31\bin\Debug\LoopByStep31.exe
+D:\VSProjects\AdvancedLoops\LoopByStep31\bin\Debug\LoopByStep31.pdb
+D:\VSProjects\AdvancedLoops\LoopByStep31\obj\Debug\LoopByStep31.csprojResolveAssemblyReference.cache
+D:\VSProjects\AdvancedLoops\LoopByStep31\obj\Debug\LoopByStep31.exe
+D:\VSProjects\AdvancedLoops\LoopByStep31\obj\Debug\LoopByStep31.pdb

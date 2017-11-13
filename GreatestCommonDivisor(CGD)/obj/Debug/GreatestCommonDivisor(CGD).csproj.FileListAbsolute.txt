@@ -1,0 +1,6 @@
+D:\VSProjects\AdvancedLoops\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).exe.config
+D:\VSProjects\AdvancedLoops\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).exe
+D:\VSProjects\AdvancedLoops\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).pdb
+D:\VSProjects\AdvancedLoops\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).csprojResolveAssemblyReference.cache
+D:\VSProjects\AdvancedLoops\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).exe
+D:\VSProjects\AdvancedLoops\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).pdb
