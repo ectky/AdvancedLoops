@@ -1,0 +1,6 @@
+D:\VSProjects\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe.config
+D:\VSProjects\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe
+D:\VSProjects\AdvancedLoops\SumDigits\bin\Debug\SumDigits.pdb
+D:\VSProjects\AdvancedLoops\SumDigits\obj\Debug\SumDigits.csprojResolveAssemblyReference.cache
+D:\VSProjects\AdvancedLoops\SumDigits\obj\Debug\SumDigits.exe
+D:\VSProjects\AdvancedLoops\SumDigits\obj\Debug\SumDigits.pdb

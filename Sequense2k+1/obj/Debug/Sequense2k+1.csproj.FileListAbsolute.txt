@@ -1,0 +1,5 @@
+D:\VSProjects\AdvancedLoops\Sequense2k+1\bin\Debug\Sequense2k+1.exe.config
+D:\VSProjects\AdvancedLoops\Sequense2k+1\bin\Debug\Sequense2k+1.exe
+D:\VSProjects\AdvancedLoops\Sequense2k+1\bin\Debug\Sequense2k+1.pdb
+D:\VSProjects\AdvancedLoops\Sequense2k+1\obj\Debug\Sequense2k+1.exe
+D:\VSProjects\AdvancedLoops\Sequense2k+1\obj\Debug\Sequense2k+1.pdb
